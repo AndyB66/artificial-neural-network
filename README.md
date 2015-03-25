@@ -16,4 +16,5 @@ The Rprop family of error optimization takes into account the sign of the partia
 
 ####References
 Rprop+: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.21.1417
+
 iRPROP+: http://citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.17.1332
