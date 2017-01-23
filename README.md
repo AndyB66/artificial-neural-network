@@ -3,10 +3,6 @@ ArtificialNeuralNetwork
 
 An implementation of a (initially) fully-connected, feed-forward artificial neural network written in Java utilizing iRPROP+ training algorithm.
 
-##Artificial Neural Networks
-An artificial neural network is a computational representation of biological neural networks, aiming to reproduce its learning ability.  Neural networks in general excel at machine learning and more specifically, pattern matching, because of its resilient and adaptive nature.  Neural networks are often known for being strong classifiers (although they are not limited to this aspect), and as a result, have wide array of uses.
-
-
 ##Implementation Details
 
 ###iRPROP+
